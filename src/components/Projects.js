@@ -84,17 +84,17 @@ const projects2 = [
     ],
   },
   {
-    title: "Java",
-    description: "Client Api Challenge",
+    title: "Users Api Restful",
+    description: "Java, SpringBoot Hibernate, JWT",
     imgSrc: projImg6,
     links: [
       {
         text: "Website",
-        href: "https://client-api-challenge.onrender.com/swagger-ui.html",
+        href: "https://users-api-restful.onrender.com/swagger-ui/index.html",
       },
       {
         text: "Github",
-        href: "https://github.com/Sevalas/client-api-challenge",
+        href: "https://github.com/Sevalas/users-api-restful",
       },
     ],
   },
@@ -112,6 +112,21 @@ const projects3 = [
       {
         text: "Github",
         href: "https://github.com/Sevalas/spring-challenge",
+      },
+    ],
+  },
+  {
+    title: "Java",
+    description: "Client Api Challenge",
+    imgSrc: projImg6,
+    links: [
+      {
+        text: "Website",
+        href: "https://client-api-challenge.onrender.com/swagger-ui.html",
+      },
+      {
+        text: "Github",
+        href: "https://github.com/Sevalas/client-api-challenge",
       },
     ],
   },
