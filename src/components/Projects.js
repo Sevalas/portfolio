@@ -7,6 +7,7 @@ import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
 import projImg7 from "../assets/img/project-img7.png";
+import projImg8 from "../assets/img/project-img8.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 
 const projects1 = [
@@ -118,7 +119,7 @@ const projects3 = [
   {
     title: "Java",
     description: "Client Api Challenge",
-    imgSrc: projImg6,
+    imgSrc: projImg8,
     links: [
       {
         text: "Website",
